@@ -5,6 +5,8 @@ VaaniSetu is a voice-first AI assistant designed to bridge the digital divide fo
 
 ![VaaniSetu Dashboard](assets/dashboard.png)
 
+### 🎬 [Watch the Demo Video](assets/demo_video.mp4)
+
 ---
 
 ## 🎯 The Vision
@@ -53,7 +55,7 @@ vaanisetu/
 │   │   └── services/        ← Chat & Speech logic
 │   └── pubspec.yaml
 ├── release/                 ← Ready-to-install APKs
-├── assets/                  ← Project images
+├── assets/                  ← Project images & video
 └── data/
     └── tamil_kb/            ← Government schemes knowledge base
 ```
