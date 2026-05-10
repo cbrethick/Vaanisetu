@@ -10,6 +10,7 @@ Key Features:
 I built this using **Flutter**, **FastAPI**, and the incredible **Gemma 4** model. Our goal is to bridge the digital divide and bring the power of AI to those who need it most.
 
 Check out the demo video here: https://youtu.be/JRYwkRFtRQs
+Read the full project writeup on Kaggle: https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/vaanisetu-bridging-the-digital-divide-for-70-mill
 
 Source Code: https://github.com/cbrethick/Vaanisetu
 
