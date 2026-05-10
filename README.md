@@ -4,6 +4,9 @@
 > Bridging the digital divide for Tamil Nadu's 70 million Tamil speakers
 > through offline-first, voice-first AI in their native language.
 
+![VaaniSetu Dashboard](assets/dashboard.png)
+
+
 ---
 
 ## 🏆 Hackathon Track
@@ -33,6 +36,19 @@
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🚀 Download & Install
+
+### Android (APK)
+You can download the ready-to-use Android app here:
+👉 **[Download VaaniSetu APK v1.0](release/vaanisetu_v1.0.apk)**
+
+1. Download the APK file to your phone.
+2. Enable "Install from Unknown Sources" in settings.
+3. Install and open the app.
+
 
 ```
 vaanisetu/
