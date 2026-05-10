@@ -1,0 +1,235 @@
+schemes:
+  - name: Chief Minister Breakfast Scheme
+    source: https://www.myscheme.gov.in/schemes/tncmbs
+    department: Department of Social Welfare & Women Empowerment, Tamil Nadu
+    launched: "2022-09-15"
+    eligibility:
+      - Student must be studying in a Government of Tamil Nadu school
+      - Only students of Class 1st to Class 5th are eligible
+      - Covers both government schools and (in expanded phase) government-aided schools
+    benefits:
+      - Free nutritious breakfast provided daily on all school working days (Monday–Friday)
+      - Menu includes 13 types of food items rotating weekly (Uppama, Khichadi, Pongal, Sweet items)
+      - Budget allocation of ₹33.56 crores for initial 1,14,095 students; expanded to 18+ lakh students across 30,122 schools
+    documents_required:
+      - No documents required; all enrolled students in eligible classes automatically receive the benefit
+    how_to_apply: >
+      No application needed. Students enrolled in Tamil Nadu Government primary schools
+      (Class 1 to Class 5) automatically receive breakfast at school.
+    apply_link: https://tnsocialwelfare.tn.gov.in/en/specilisationsnutritious-meal-programme/chief-ministers-breakfast-scheme
+
+  - name: Unemployment Assistance Scheme – Tamil Nadu
+    source: https://www.myscheme.gov.in/schemes/ueastn
+    department: Department of Employment and Training, Tamil Nadu
+    launched: "2006"
+    eligibility:
+      general_category:
+        - Must be a permanent resident of Tamil Nadu
+        - Must be registered in the District Employment and Career Guidance Centre for 5 or more years
+        - Family annual income must not exceed ₹72,000 per annum
+        - Maximum age: 40 years (45 years for SC/ST candidates)
+        - Must not be a regular student of any school or college
+        - Must not be in any type of employment
+        - Minimum education: 9th class pass
+      differently_abled_category:
+        - Must be a permanent resident of Tamil Nadu
+        - Must be registered in Employment Exchange for 1 or more years
+        - Must have physical disability proof
+        - No age or income limit
+        - Must not be employed
+    benefits:
+      general_category:
+        - SSLC failed: ₹200/month
+        - SSLC passed: ₹300/month
+        - HSC: ₹400/month
+        - Graduates: ₹600/month
+        - Assistance provided for 3 years; credited to bank account quarterly via ECS
+      differently_abled_category:
+        - Illiterate to SSLC passed: ₹600/month
+        - HSC: ₹750/month
+        - Graduates: ₹1,000/month
+        - Assistance provided for 10 years
+      additional:
+        - Skill Development Training Programmes
+        - Coaching and guidance from District Employment Centres
+    documents_required:
+      - Any one Identity Proof (Aadhaar Card / PAN Card / Voter ID / Passport / Driving License / Ration Card)
+      - Domicile Certificate of Tamil Nadu
+      - Passport Size Photograph
+      - Email ID and Mobile Number
+      - Bank Account Details (Account Number, IFSC Code, Branch Name)
+      - Caste Certificate
+      - Self Affidavit (declaring unemployment)
+      - Medical Certificate (for differently abled applicants — disability proof)
+      - Qualification Documents (if literate)
+    how_to_apply: >
+      Offline: Obtain application form free of cost from the District Employment Exchange Centre,
+      fill it, attach documents, and submit to the centre.
+      Online: Register on Tamil Nadu Department of Employment and Training portal at tnvelaivaaippu.gov.in
+      and complete 4-step registration (Personal, Contact, Qualification, Skill Details).
+    apply_link: https://tnvelaivaaippu.gov.in
+
+  - name: Indira Gandhi National Widow Pension Scheme – Tamil Nadu
+    source: https://www.myscheme.gov.in/schemes/ignwpstn
+    department: Social Welfare and Women Empowerment Department, Tamil Nadu
+    eligibility:
+      - Applicant must be a widow
+      - Applicant must be destitute (no regular income or support)
+      - Must belong to Below Poverty Line (BPL) category
+      - Applicant's age must be 40 years and above (up to 79 years)
+      - Must be a permanent resident of Tamil Nadu
+      - Must not be receiving any other government pension
+      - Will be disqualified if remarried
+    benefits:
+      - Monthly pension of ₹1,000 credited directly to bank account
+      - One free saree during Pongal and Deepavali festivals
+      - Free rice from Anganwadi Centres (2 kg/month if taking nutritious meals; 4 kg/month if not)
+    documents_required:
+      - Widow Certificate
+      - Any Identity Proof (Voter ID / Passport / PAN Card / Driving License)
+      - Bank Passbook
+      - BPL Card Number
+      - Aadhaar Card (for biometric verification)
+    how_to_apply: >
+      Step 1: Gather all required documents.
+      Step 2: Visit the nearest Common Service Centre (CSC) and complete Biometric Verification.
+      Step 3: Fill in all mandatory fields in the application form and upload copies of documents.
+      Step 4: Collect the acknowledgment receipt with date, time, and submission details.
+    apply_link: https://www.myscheme.gov.in/schemes/ignwpstn
+
+  - name: Capital Subsidy – Tamil Nadu (MSME)
+    source: https://www.myscheme.gov.in/schemes/cs-tn
+    department: Micro, Small and Medium Enterprises (MSME) Department, Tamil Nadu
+    eligibility:
+      - All new Micro Manufacturing Enterprises established anywhere in Tamil Nadu
+      - New Small and Medium Enterprises in 24 designated thrust sectors
+      - New Small and Medium Manufacturing Enterprises in 254 industrially backward blocks
+      - Existing Micro and Small Manufacturing Enterprises graduating to a higher category (expansion/diversification)
+      - New Small and Medium Agro-based and Food Processing Enterprises
+      - Application must be filed within one year from date of commencement of commercial production
+      - Certain sectors with special certifications (e.g., Electrical/Electronic items with ISI/ISO 9001; Auto parts with ISO 9001)
+    benefits:
+      - Base Capital Subsidy: 25% of eligible plant & machinery value (varies by category and location)
+      - Additional 10% subsidy for Micro Enterprises (max ₹5 lakh)
+      - 5% additional subsidy for enterprises scaling up (max ₹25 lakh)
+      - 25% additional subsidy for cleaner/eco-friendly technology adoption (max ₹10 lakh)
+      - Individual-based Capital Subsidy: 25% of project cost (max ₹75 lakh) under select programmes
+      - 3% Interest Subvention throughout the repayment period (under select schemes)
+    documents_required:
+      - Enterprise Registration Certificate (Udyam / earlier SSI certificate)
+      - Project Report
+      - Bank Loan Sanction Letter and Term Loan details
+      - Electricity power supply connection details
+      - Commercial Tax Department registration certificate with date
+      - Date of commencement of commercial production proof
+      - Invoice/Delivery Challan (for first sale)
+      - Employment details
+      - Pollution Control Board clearance (if applicable)
+      - Drug license (for pharmaceutical units)
+      - ISO/ISI certificates (for specified sectors)
+    how_to_apply: >
+      Apply online through the MSME Tamil Nadu portal at msmeonline.tn.gov.in.
+      On the homepage, select "Apply Online" → "Apply for Subsidy" → "Capital Subsidy".
+      Fill in enterprise details carefully (data is final and cannot be corrected later).
+      Upload all required documents and submit.
+    apply_link: https://msmeonline.tn.gov.in
+
+  - name: Tamil Nadu Chief Minister's Fellowship Programme (TNCMFP)
+    source: https://www.myscheme.gov.in/schemes/tncmfp
+    department: Special Programme Implementation Department, Government of Tamil Nadu
+    academic_partner: Bharathidasan Institute of Management (BIM), Tiruchirapalli
+    duration: 2 years
+    seats: 30 Fellows (2 per thematic area; 6 for Special Programme Implementation)
+    eligibility:
+      - Must hold a first-class Bachelor's degree in professional courses (Engineering, Medicine, Law, Agriculture, Veterinary, Science) OR
+      - First-class Master's degree in Arts or Science
+      - Age: 22–30 years (general); up to 33 years for BC/MBC; up to 35 years for SC/ST
+      - Must be a permanent resident of Tamil Nadu
+      - Working knowledge of Tamil language required
+      - No application fee
+    benefits:
+      - Monthly stipend of ₹65,000
+      - Additional monthly allowance of ₹10,000 (for incidental expenses)
+      - Placement in Chief Minister's Office / concerned departments
+      - 30-day mandatory orientation at Anna Administrative Staff College, Chennai
+      - Post Graduate Certificate in Public Policy & Management from BIM upon completion
+      - Ph.D. opportunity (subject to programme terms)
+    documents_required:
+      - Bachelor's / Master's degree certificates (first class)
+      - Age proof (Aadhaar / Date of Birth certificate)
+      - Community Certificate (for reserved category candidates)
+      - Tamil Nadu residency proof
+      - Passport size photograph
+      - Valid email ID and mobile number
+    selection_process:
+      - Stage 1 – Computer-Based Preliminary Assessment (MCQ: General Awareness, Verbal Comprehension, Logical Reasoning); conducted across major cities in India
+      - Stage 2 – Comprehensive Written Examination (conventional essay-type, analytical, case-based); held in Chennai
+      - Stage 3 – Personal Interview (intellectual quotient, current affairs, systemic thinking, Tamil proficiency); held in Chennai
+    how_to_apply: >
+      Apply online at www.tn.gov.in/tncmfp or www.bim.edu/tncmfp.
+      Fill the application form completely and submit before the notified deadline.
+      Only online submissions are accepted; no application fee.
+    apply_link: https://www.tn.gov.in/tncmfp
+
+  - name: Prize Schemes to the Students (State Level Prizes)
+    source: https://www.myscheme.gov.in/schemes/psslp
+    department: Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu
+    eligibility:
+      - Must be a resident of Tamil Nadu
+      - Must belong to Backward Classes (BC), Most Backward Classes (MBC), or Denotified Communities (DNC)
+      - Must be studying in a Government, Government-Aided, or Private School
+      - Must have studied Tamil as the first language
+      - No income limit
+      - If multiple students score the same marks, all are eligible for the award
+    exclusions:
+      - State Level Topper students already awarded by the Education Department are NOT eligible
+      - Students who have not opted for Tamil as their first language are excluded
+    benefits:
+      - Cash prizes awarded at state level for academic excellence
+      - Prizes distributed by category (BC, MBC, DNC) and school type
+      - No income ceiling for eligibility
+    documents_required:
+      - Proof of Identity (Aadhaar Card or School ID)
+      - Caste Certificate (BC / MBC / DNC)
+      - Admission / Enrollment Proof
+      - Language Certificate (proof of Tamil as first language)
+      - Marksheets or result documents
+    how_to_apply: >
+      Step 1: Collect the application form from your educational institution.
+      Step 2: Fill in all mandatory fields, paste a passport-size photograph (signed across if required),
+              and attach copies of all mandatory documents (self-attested if required).
+      Step 3: Submit the duly filled and signed application form with documents to the institution.
+      The institution will verify and forward eligible applications to the department.
+    apply_link: https://www.myscheme.gov.in/schemes/psslp
+
+  - name: Scholarship for Students with Disabilities (Above Grade 8) – Tamil Nadu
+    source: https://www.myscheme.gov.in/schemes/saviiisbwodap
+    department: Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu
+    eligibility:
+      - Must be a differently abled student (physically/visually/hearing impaired or other recognised disability)
+      - Must hold a valid National Identity Card for Differently Abled issued by the Welfare Board
+      - Must be enrolled in a government-recognised school, college, or training centre
+      - Must be studying in Class 9 or above (up to Postgraduate, Medical, Engineering, Vocational, Professional courses)
+      - Must have scored at least 40% marks in the previous qualifying examination
+      - Must be a permanent resident of Tamil Nadu
+    benefits:
+      - Class 9 to Class 12: ₹4,000 per annum
+      - Degree courses: ₹6,000 per annum
+      - Postgraduate, Medical, Engineering, Vocational, and other Professional courses: ₹7,000 per annum
+    documents_required:
+      - National Identity Card of the Differently Abled (issued by Welfare Board)
+      - Statement of Marks from the previous qualifying examination (minimum 40%)
+      - Certificate from the Head of Institution (confirming enrollment)
+      - Passport Size Photograph
+      - Aadhaar Card photocopy
+      - Ration Card photocopy
+      - Certificate from Village Administrative Officer (stating not receiving benefits from other departments)
+      - Savings Bank Account details
+    how_to_apply: >
+      Offline only:
+      Step 1: Visit the District Differently Abled Welfare Officer's Office during working hours.
+      Step 2: Request a hard copy of the application form.
+      Step 3: Fill out the form completely and attach copies of all mandatory documents (self-attested).
+      Step 4: Submit the completed application to the District Differently Abled Welfare Officer.
+      Step 5: Collect acknowledgment receipt with date, time, and submission details.
+    apply_link: https://www.myscheme.gov.in/schemes/saviiisbwodap

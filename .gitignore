@@ -1,0 +1,21 @@
+# Common
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+**/.packages
+**/pubspec.lock
+**/ios/Flutter/.last_build_id
+**/android/local.properties
