@@ -66,5 +66,5 @@ VaaniSetu doesn't just use AI for the sake of technology; it uses AI to solve a 
 ### **Project Resources**
 *   **Code Repository**: [GitHub - cbrethick/Vaanisetu](https://github.com/cbrethick/Vaanisetu)
 *   **Live Demo (APK)**: [VaaniSetu Release v1.1](https://github.com/cbrethick/Vaanisetu/tree/main/release)
-*   **Demo Video**: [VaaniSetu Demo (MP4)](https://github.com/cbrethick/Vaanisetu/blob/main/assets/demo_video.mp4)
+*   **Demo Video**: [VaaniSetu Demo (YouTube)](https://youtu.be/JRYwkRFtRQs)
 

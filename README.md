@@ -5,7 +5,7 @@ VaaniSetu is a voice-first AI assistant designed to bridge the digital divide fo
 
 ![VaaniSetu Dashboard](assets/dashboard.png)
 
-### 🎬 [Watch the Demo Video](assets/demo_video.mp4)
+### 🎬 [Watch the Demo Video (YouTube)](https://youtu.be/JRYwkRFtRQs)
 
 ---
 

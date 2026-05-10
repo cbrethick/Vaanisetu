@@ -1,0 +1,16 @@
+🚀 Excited to share my latest project for the Google Gemma 4 Good Hackathon: **VaaniSetu (வாணி சேது)**!
+
+AI is transforming the world, but many are still left behind due to language barriers and internet access. VaaniSetu is a voice-first, offline AI assistant designed specifically for the 70 million Tamil speakers in Tamil Nadu.
+
+Key Features:
+✅ **Native Tamil Voice Interaction**: Talk to AI in your native tongue.
+✅ **Multimodal Vision**: Scan documents (ration cards, medical prescriptions) and get instant Tamil explanations.
+✅ **Offline-First**: Powered locally by **Gemma 4** and **Ollama**—works even in remote villages with zero internet.
+
+I built this using **Flutter**, **FastAPI**, and the incredible **Gemma 4** model. Our goal is to bridge the digital divide and bring the power of AI to those who need it most.
+
+Check out the demo video here: https://youtu.be/JRYwkRFtRQs
+
+Source Code: https://github.com/cbrethick/Vaanisetu
+
+#Gemma4Good #GoogleAI #Gemma4 #Ollama #Flutter #TamilNadu #DigitalEquity #InclusiveAI #AIForGood #Hackathon
